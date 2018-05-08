@@ -93,3 +93,12 @@ footer p {
 	font-size: 0.9;
 
 }
+
+.ciwo {
+	color: white;
+	text-shadow: 1px 1px 20px rgba(0, 0, 0, 1);
+}
+
+.gar {
+	color: solid white;
+}
